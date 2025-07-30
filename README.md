@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently diving deeper into **DSA, Machine Learning**
 - 💻 Regularly practicing problems on **LeetCode**[https://leetcode.com/u/Subhr_Neon_16/], building projects on **GitHub**
-- 📊 Interested in **Data Analysis**, **AI/ML**, and **Creative Tools** like Adobe Suite
+- 📊 Interested in **Data Analysis**, **AI/ML**
+- 🎨 Hobbies: **Photography**, **Photo Editing**, and exploring **Creative Tools** like Adobe Lightroom & Photoshop
 - 🔭 I’m working on: improving my **coding speed**, and building **New ML Model** which can help in society but as I am begineer so trying to work Hard.
 - 📫 How to reach me: [subhrakantidas532@gmail.com]
 
